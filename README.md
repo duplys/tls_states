@@ -18,4 +18,5 @@ source ~/Temp/tls/bin/active
 ```
 
 ## How to Interpret the Output
-The current TLS 1.3 client or TLS 1.3 server state is denoted by the symbol &#x25CB;. What triggers a state transition or occurs during the state transition is denoted by &#x2192;.  
+* The active TLS 1.3 client or TLS 1.3 server state is denoted by the symbol &#x25CB;
+* What triggers a state transition or occurs during the state transition is denoted by &#x2192;  
