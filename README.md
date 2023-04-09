@@ -1,4 +1,4 @@
-# TLS States
+# TLS 1.3 States
 Code for experimenting with TLS 1.3 client and server state machines.
 
 ## Prerequisites
